@@ -3,7 +3,7 @@
     </div>
     
     <footer id="footer" role="contentinfo" >
-    <div class="test">
+    <div class="pdp">
         <a class="textfooter" href="http://localhost/planty/">Mentions légales</a>
         </div>
     </footer>
