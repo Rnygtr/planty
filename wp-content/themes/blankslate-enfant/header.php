@@ -10,9 +10,9 @@
 <div id="wrapper" class="hfeed">
 <header id="header" role="banner">
 <div class="flex-between">
-<div id="logo">
-   <a href="http://localhost/planty/" ><img src="/planty/wp-content/uploads/2023/02/Logo.png" alt="logo planty" width="190px" height="20px"> </a>
-</div>
+
+   <a href="http://localhost/planty/" ><img class="logo" src="/planty/wp-content/uploads/2023/02/Logo.png" alt="logo planty" width="190px" height="20px"> </a>
+
 
 <?php wp_nav_menu( array( 'theme_location' => 'main-menu', 'link_before' => '<span itemprop="name">', 'link_after' => '</span>' ) ); ?>
 

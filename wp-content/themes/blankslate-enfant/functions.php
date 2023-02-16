@@ -8,4 +8,3 @@ function theme_enqueue_styles() {
 
 }
 
-add_filter( 'wp_nav_menu_items', )
